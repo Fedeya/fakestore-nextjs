@@ -12,7 +12,7 @@
   "dependencies": {
     "@tailwindcss/aspect-ratio": "^0.3.0",
     "axios": "^0.23.0",
-    "next": "11.1.2",
+    "next": "^12.1.6",
     "react": "17.0.2",
     "react-dom": "17.0.2",
     "react-query": "^3.28.0"
@@ -24,7 +24,7 @@
     "autoprefixer": "^10.3.7",
     "babel-jest": "^27.3.1",
     "eslint": "8.1.0",
-    "eslint-config-next": "11.1.2",
+    "eslint-config-next": "^12.1.6",
     "identity-obj-proxy": "^3.0.0",
     "jest": "^27.3.1",
     "msw": "^0.35.0",
